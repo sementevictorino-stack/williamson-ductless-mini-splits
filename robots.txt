@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://Williamson-ductless.netlify.app/sitemap.xml
+Sitemap: https://williamsonwvductlessminisplits.netlify.app/sitemap.xml
 
 # Allow all search engines to crawl the site
 User-agent: Googlebot
